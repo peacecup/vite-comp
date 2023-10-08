@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,Q as l}from"./chunks/framework.a87e15f6.js";const h=JSON.parse('{"title":"🔨 Smarty-UI是什么?","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),p={name:"index.md"},o=l("",13),e=[o];function t(r,c,i,y,E,d){return n(),a("div",null,e)}const m=s(p,[["render",t]]);export{h as __pageData,m as default};

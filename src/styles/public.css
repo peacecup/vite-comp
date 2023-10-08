@@ -1,0 +1,6 @@
+.vc-link.decoration,.vc-link:hover {
+    text-decoration: underline;
+}
+.cursor-not-allowed.vc-link {
+    text-decoration: none;
+}

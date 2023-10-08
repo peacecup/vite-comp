@@ -1,0 +1,37 @@
+<p align="center">
+<img src="https://github.com/smarty-team/smarty-admin/blob/main/assets/logo.jpeg" style="width:20%;" />
+</p>
+
+<h1 align="center">Smarty-UI</h1>
+
+<p align="center">
+vue3 vite component的组件库demo
+</p>
+
+<p align="center">
+<a href="https://www.npmjs.com/package/smarty-admin-ui"><img src="https://img.shields.io/npm/v/smarty-admin-ui?color=c95f8b&amp;label=" alt="NPM version"></a></p>
+
+
+[![CI](https://github.com/beijiyibei/vite-comp/actions/workflows/main.yml/badge.svg?branch=default)](https://github.com/beijiyibei/vite-comp/actions/workflows/main.yml)
+![MIT](https://img.shields.io/github/license/smarty-team/smarty-admin?color=red)
+[![codecov](https://codecov.io/gh/smarty-team/smarty-admin/branch/main/graph/badge.svg?token=7QHP5W7BHZ)](https://codecov.io/gh/smarty-team/smarty-admin)
+
+<br>
+<br>
+
+## Features
+
+前端工程化demo项目。
+- 基于Vue框架
+- 支持JSX与Vue单文件组件
+- Jest + Vue3 plugins实现单元测试
+- Eslint + Prettier + Husky 语法检查
+- 采用Rollup构建
+- Vitepress + Vercel 文档网站搭建
+- 基于Action CI 实现持续集成与交付
+
+<img src="https://github.com/smarty-team/smarty-admin/blob/main/assets/demo.gif" style="width:80%;" />
+
+## Browser Support
+
+Modern browsers and Internet Explorer 10+.
